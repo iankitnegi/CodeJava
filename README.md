@@ -32,6 +32,13 @@ The difference in potential is: 82
 
 
 
+#### YT04: Write a program to input a number and check whether it is an Armstrong number or not. (A number is Armstrong if it is equal to the sum of the cubes of its digits) [Link](https://youtu.be/_pfx3kKgmds?si=nihYwFDBdYsfrKnW)
+Example:       
+Input Number= 153       
+1^3 + 5^3 + 3^3 = 153        
+
+
+
 #### YT24: Write a program to input a number and check whether it is a prime number or not. If it is not a prime number then display the next number that is prime.  
 Sample Input: 14  
 Sample Output: 17  
