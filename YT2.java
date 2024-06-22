@@ -1,3 +1,10 @@
+/*Define a class to accept values into a 3x3 array and check if it is a special array. 
+*An array is special array, if the sum of the even elements = sum of the odd elements.
+*Example: A[][]= {{4,5,6}, {5,3,2}, {4,2,5}}
+*Sum of even elements = 4+6+2+4+2 = 18
+*Sum of odd elements = 5+5+3+5 = 18
+*/
+
 import java.io.*;
 public class YT2
 {
