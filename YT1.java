@@ -1,3 +1,15 @@
+/*Define a class with a menu driven code to show the following pattern
+*5   
+*10 15  
+*20 25 30  
+*35 40 45 50 
+*
+*######  
+*&&&&&&  
+*######  
+*&&&&&& 
+ */
+
 import java.io.*;
 class YT1
 {
