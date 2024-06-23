@@ -1,3 +1,20 @@
+/*Define a class Employee described as below: 
+*Instance Variables:
+*name, empno, basic, da, hra, pf, gross, net
+*Member Methods:
+*(i) A parameterized constructor to initialize the data member.
+*(ii) void getdata() - To accept the details of an employee.
+*(iii) void compute() - To compute the gross & net salary as:
+*da=30% of basic
+*hra=15% of basic
+*pf=12% of basic
+*gross= da+hra+pf
+*net= gross-pf
+*(iv) void display() - To display the name, empno, gross, net
+*Write a main method to create an object of a class and call the above member methods.
+*/
+
+
 import java.io.*;
 public class YT5 
 {
