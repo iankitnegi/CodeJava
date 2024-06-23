@@ -1,6 +1,5 @@
 /*Write a program in java to input two words (in mixed case) from user and compare both the words. 
 *Display the difference of their ASCII codes obtained after calculating the total potential (sum of the ASCII codes of all characters) of the word. 
-*Explanation
 *Sample Input:
 *Enter the first word: Charm
 *Enter the second word: Wood
