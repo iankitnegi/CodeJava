@@ -1,3 +1,5 @@
+/*Write a program to input 10 integer elements in an array and sort them in ascending order using the bubble sort technique*/
+
 import java.io.*;
 class YT6
 {
