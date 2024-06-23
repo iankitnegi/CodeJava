@@ -1,3 +1,25 @@
+/*Define a class named TaxCalculator with the following description:
+*Data members-
+*String name - Stores the name of the customer.
+*int PAN - Store Pan Number
+*double taxableIncome - To store income
+*double tax - Stores the tax
+
+*Member methods-
+*TaxCalculator() - Default constructor to initialize the data members.
+*void input() - To input name, pan number and taxable income.
+*void calculate() - To calculate the tax based on the following criteria
+
+*Total Annual Taxable Income	    Rate of Taxation
+*Less than or equal to 60000	    0%
+*Above 60000 but upto 150000	    5%
+*Above 150000 but upto 500000	    10%
+*Above 500000	                    15%
+*void display() - To display all the details
+*Write the main() method to create an object of the class and call the above member methods.
+*/
+
+
 import java.io.*;
 class YT7
 
