@@ -1,3 +1,10 @@
+/*Write a program to input a number and check whether it is an Armstrong number or not. 
+*(A number is Armstrong if it is equal to the sum of the cubes of its digits)
+*Example:
+*Input Number= 153
+*1^3 + 5^3 + 3^3 = 153
+*/
+
 import java.io.*;
 class YT4
 {
