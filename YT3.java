@@ -1,3 +1,17 @@
+/*Write a program in java to input two words (in mixed case) from user and compare both the words. 
+*Display the difference of their ASCII codes obtained after calculating the total potential (sum of the ASCII codes of all characters) of the word. 
+*Explanation
+*Sample Input:
+*Enter the first word: Charm
+*Enter the second word: Wood
+
+*Potential of Charm = 67+104+97+114+109 = 491
+*Potential of Wood = 87+111+111+100 = 409
+*The word with higher potential is: Charm
+*The difference in potential is: 82
+*/
+
+
 import java.io.*;
 class YT3
 {
