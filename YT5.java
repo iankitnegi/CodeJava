@@ -1,6 +1,7 @@
 /*Define a class Employee described as below: 
 *Instance Variables:
 *name, empno, basic, da, hra, pf, gross, net
+
 *Member Methods:
 *(i) A parameterized constructor to initialize the data member.
 *(ii) void getdata() - To accept the details of an employee.
