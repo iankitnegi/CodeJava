@@ -110,7 +110,8 @@ YT10: Write a program in Java to declare two single dimensional array of String 
 |9       |Himachal Pradesh       |Shimla       |
 |10       |Jammu & Kashmir       |Srinagar       |
 
-Ask the user to enter a state & check whether the state is in the list or not. If present display the capital else display a message "State not found in the list"
+Ask the user to enter a state & check whether the state is in the list or not. If present display the capital else display a message "State not found in the list"       
+[Explanation](https://youtu.be/s-vkSxX28nA?si=3nSiHi_w1PkqHQ_s)  
 
 ____________________________________________________________________________________________________________________________________________________________________________________________________
 YT24: Write a program to input a number and check whether it is a prime number or not. If it is not a prime number then display the next number that is prime.  
