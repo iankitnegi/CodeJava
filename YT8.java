@@ -1,3 +1,6 @@
+/*Write a program to accept 20 different number in a single dimensional array. Display the sum of all the numbers which are divisible by either 3 or 5.
+*/
+
 import java.io.*;
 class YT8
 {
