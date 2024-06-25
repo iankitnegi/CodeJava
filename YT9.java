@@ -1,3 +1,11 @@
+/*Write a program in Java to enter a name and check whether it is an odd name or not. 
+*A name is said to be odd name if the ASCII code of each character becomes an odd number.
+*Input: AMUL
+*Output: It is not an odd name
+*(ASCII value of A=65, M=77, U=85, L=76)= ASCII value of L is not odd
+*/
+
+
 import java.io.*;
 public class YT9 
 {
