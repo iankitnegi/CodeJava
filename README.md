@@ -84,18 +84,18 @@ void display() -  To display all the details
 Write the main() method to create an object of the class and call the above member methods.       
 [Explanation](https://youtu.be/Yn_LEoCHqpo?si=FDWrFUN5FbrrbhwS)       
 
-____________________________________________________________________________________________________________________________________________________________________________________________________
+___________________________________________________________________________________________________________________________________________________________________
 YT08: Write a program to accept 20 different number in a single dimensional array. Display the sum of all the numbers which are divisible by either 3 or 5.        
 [Explanation](https://youtu.be/fGN5gtip6EE?si=pj9FkACxKPtHYIqP)       
 
-____________________________________________________________________________________________________________________________________________________________________________________________________
+___________________________________________________________________________________________________________________________________________________________________
 YT09: Write a program in Java to enter a name and check whether it is an odd name or not. A name is said to be odd name if the ASCII code of each character becomes an odd number.       
 Input: AMUL       
 Output: It is not an odd name       
 (ASCII value of A=65, M=77, U=85, L=76)= ASCII value of L is not odd              
 [Explanation](https://youtu.be/TYonFhhKC7A?si=IlHgJCEQXXfJCkZd)        
 
-____________________________________________________________________________________________________________________________________________________________________________________________________
+___________________________________________________________________________________________________________________________________________________________________
 YT10: Write a program in Java to declare two single dimensional array of String type using static initialization and store the name of 10 indian states and their capitals as shown below:       
 | No. | State Name | Capital Name |
 |-----|------------|--------------|
@@ -113,7 +113,13 @@ YT10: Write a program in Java to declare two single dimensional array of String 
 Ask the user to enter a state & check whether the state is in the list or not. If present display the capital else display a message "State not found in the list"       
 [Explanation](https://youtu.be/s-vkSxX28nA?si=3nSiHi_w1PkqHQ_s)  
 
-____________________________________________________________________________________________________________________________________________________________________________________________________
+___________________________________________________________________________________________________________________________________________________________________
 YT24: Write a program to input a number and check whether it is a prime number or not. If it is not a prime number then display the next number that is prime.  
 Sample Input: 14  
-Sample Output: 17  
+Sample Output: 17         
+
+____
+YT51: Write a program to check whether the number is automorphic number or not? An Automorphic number is a number whose square “ends” in the same digits as the number itself.        
+Examples: 5*5 = 25, 6*6 = 36, 25*25 = 625       
+
+
