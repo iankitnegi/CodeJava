@@ -1,3 +1,10 @@
+/*Define a class to accept a string, convert it into lowercase & check whether the string is a pallindrome or not? 
+*A pallindrome is a word which reads the same backwards as forward.
+*Example:
+*Input String = MADAM
+*Reverse String = MADAM
+*/
+
 import java.io.*;
 class YT12
 {
