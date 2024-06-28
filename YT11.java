@@ -1,3 +1,10 @@
+/*Design a class to overload a function series() as follows:
+*a. void series(int x, int n) - To display the sum of the series given : x^1 - x^2 + x^3 - x^4 + ............. + x^n
+*b. void series(int p) - To display the following series : 0, 7, 26, 63, ...................... p terms
+*c. void series() - To display the sum of the series given below : 1/2 + 2/3 + 3/4 + .................. + 9/10
+*/
+
+
 import java.io.*;
 class YT11
 {
