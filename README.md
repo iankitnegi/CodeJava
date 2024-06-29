@@ -128,7 +128,31 @@ Reverse String = MADAM
 [Explanation](https://youtu.be/qMgO9KiLSro?si=kK3GhUImWucpFpm0)       
 
 ________________________________________________________________________________________________________________________
+YT13: Define a class to accept a 3-digit number and check whether it is a duck number or not? A number is a duck number if it has zero in it.       
+Example 1:       
+Input = 2083       
+Output = Invalid       
 
+Example 2:       
+Input = 103       
+Output = Duck Number
+[Explanation](https://youtu.be/qfJ2hksj7n8?si=abYeymkRzj0LoOMQ)
+
+________________________________________________________________________________________________________________________
+YT14: Using switch statement, write a menu driven program to print the following pattern depending on the user choosing 1 or 2 for an incorrect choice, an appropriate error message should be displayed:    
+-        AEIOU
+         AEIO
+         AEI
+         AE
+         A
+-        1
+         1   10
+         1   10   100
+         1   10   100   1000
+         1   10   100   1000  10000
+[Explanation](https://youtu.be/izHx7ZZGvpQ?si=KZMvlVF-CmW8u7Ef)
+
+________________________________________________________________________________________________________________________
 YT24: Write a program to input a number and check whether it is a prime number or not. If it is not a prime number then display the next number that is prime.  
 Sample Input: 14  
 Sample Output: 17         
