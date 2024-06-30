@@ -135,7 +135,7 @@ Output = Invalid
 
 Example 2:       
 Input = 103       
-Output = Duck Number
+Output = Duck Number       
 [Explanation](https://youtu.be/qfJ2hksj7n8?si=abYeymkRzj0LoOMQ)
 
 ________________________________________________________________________________________________________________________
@@ -153,6 +153,43 @@ YT14: Using switch statement, write a menu driven program to print the following
 [Explanation](https://youtu.be/izHx7ZZGvpQ?si=KZMvlVF-CmW8u7Ef)
 
 ________________________________________________________________________________________________________________________
+YT15: Write a program to store the numbers in a 4x4 matrix in a double dimensional array. Find the sum of the numbers of each row and the sum of the numbers of each column of the matrix.       
+E.g. Input Matrix       
+| 10 | 20 | 30 | 40 |
+|----|----|----|----|
+| 50 | 60 | 70 | 80 |
+| 2  | 4  | 6  |  8 |
+| 10 | 12 | 14 | 16 |
+
+Output:       
+Sum of row elements:       
+The sum of elements of 1st row is 100       
+Sum of column elements:       
+The sum of elements of 1st column is 72       
+[Explanation](https://youtu.be/DLMcFzIE3Vs?si=bpxcHvcUnGflr29U)
+
+________________________________________________________________________________________________________________________
+YT16: Write a program to initialize the following given elements in a single dimensional array of the name of cities. Input a city name and search it in the given array using binary search technique, display the location of city if found, otherwise display the message "Name not enclosed in the list".       
+Elements - Agra, Chennai, Dehradun, Ghaziabad, Kolkata, Lucknow, Moradabad, Nagpur       
+[Explanation](https://youtu.be/fXPr_5qoe7I?si=xMq-c6OZRueHpZwj)       
+
+________________________________________________________________________________________________________________________
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 YT24: Write a program to input a number and check whether it is a prime number or not. If it is not a prime number then display the next number that is prime.  
 Sample Input: 14  
 Sample Output: 17         
