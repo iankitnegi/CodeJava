@@ -1,4 +1,12 @@
-// 2083, 103
+/* Define a class to accept a 3-digit number and check whether it is a duck number or not? A number is a duck number if it has zero in it.
+*Example 1:
+*Input = 2083
+*Output = Invalid
+*
+*Example 2:
+*Input = 103
+*Output = Duck Number
+*/
 
 import java.io.*;
 class YT13
