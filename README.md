@@ -174,15 +174,19 @@ Elements - Agra, Chennai, Dehradun, Ghaziabad, Kolkata, Lucknow, Moradabad, Nagp
 [Explanation](https://youtu.be/fXPr_5qoe7I?si=xMq-c6OZRueHpZwj)       
 
 ________________________________________________________________________________________________________________________
+YT17: Write a program to enter N different names in a single dimension array. Arrange all names in descending order using Selection Sort method & display them?       
+[Explanation](https://youtu.be/E34XJmu1m_g?si=pTotiJnYn19glrOi)
 
+________________________________________________________________________________________________________________________
+YT18: Write a program to input a number and check whether it is 'Magic Number' or not. Display the message accordingly. A number is said to be a magic number if the eventual sum of digits of the number is one.       
+Sample Input : 55       
+Then, 5 + 5 = 10, 1 + 0 = 1       
+Sample Output: Hence, 55 is a Magic Number.       
+Similarly, 289 is a Magic Number.
+Some more examples: 325, 226, 1234              
+[Explanation](https://youtu.be/PxDtqvhp_38?si=iB1FE5VByNPiiiTC)
 
-
-
-
-
-
-
-
+________________________________________________________________________________________________________________________
 
 
 
