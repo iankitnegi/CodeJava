@@ -187,6 +187,20 @@ Some more examples: 325, 226, 1234
 [Explanation](https://youtu.be/PxDtqvhp_38?si=iB1FE5VByNPiiiTC)
 
 ________________________________________________________________________________________________________________________
+YT19: Define a class to overload the method series() as follows:
+a.) void series() to print Peli series. Peli series is such a series which starts from 0 and 1 and subsequent numbers are the sum of twice the previous number and the number before that.       
+Peli series = 0, 1, 2, 5, 12, 29, 70, 169, 408, ............ n. Print the first 20 numbers of the Peli series       
+For example 5 is the companion to 2 and 5 = 2*2 + 1 = 5       
+b.) int series(int x, int n) with two integer arguments return the sum of series.       
+S= -1^x / 1! + 2^x / 2! - 3^x / 3! + ................... +/-n^x / n!       
+[Explanation](https://youtu.be/pwnUvCSHt2g?si=-lNarSy1w68ZimJy)
+
+________________________________________________________________________________________________________________________
+
+
+
+
+
 
 
 
