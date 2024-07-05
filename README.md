@@ -196,24 +196,24 @@ S= -1^x / 1! + 2^x / 2! - 3^x / 3! + ................... +/-n^x / n!
 [Explanation](https://youtu.be/pwnUvCSHt2g?si=-lNarSy1w68ZimJy)
 
 ________________________________________________________________________________________________________________________
-
-
-
-
-
-
-
-
-
-
-
-
 YT24: Write a program to input a number and check whether it is a prime number or not. If it is not a prime number then display the next number that is prime.  
 Sample Input: 14  
 Sample Output: 17         
 
 ________________________________________________________________________________________________________________________
+YT41: The International Standard Book Number(ISBN) is a unique numeric book identifier which is printed on every book. The ISBN is based upon a 10-digit code.       
+The ISBN is legal if:       
+1 x digit1 + 2 x digit2 + 3 x digit3 + 4 x digit4 + 5 x digit5 + 6 x digit6 + 7 x digit7 + 8 x digit8 + 9 x digit9 + 10 x digit10 is divisible by 11       
+Example:       
+For an ISBN 1401601499       
+Sum = 1x1 + 2x4 + 3x0 + 4x1 + 5x6 + 6x0 + 7x1 + 8x4 + 9x9 + 10x9 = 253 which is divisible by 11       
+
+Write a program to:       
+- Input the ISBN code as a 10-digit integer.
+- If the ISBN is not a 10-digit integer, output the message "Illegal ISBN" & terminate the program.
+- If the number is divisible by 11, output the message "Legal ISBN". If the sum is not divisible by 11, output the message "Illegal ISBN"
+[Explanation](https://youtu.be/PwG0HYljNrw?si=1A2r-9bvEvyivJhv) 
+
+________________________________________________________________________________________________________________________
 YT51: Write a program to check whether the number is automorphic number or not? An Automorphic number is a number whose square “ends” in the same digits as the number itself.        
 Examples: 5*5 = 25, 6*6 = 36, 25*25 = 625       
-
-
