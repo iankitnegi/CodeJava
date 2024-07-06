@@ -217,11 +217,13 @@ Write a program to:
 ________________________________________________________________________________________________________________________
 YT43: DTDC a courier company charges for the courier based on the weight of the parcel. Define a class with the following specifications:       
 class name: courier       
-member variables: name - name of the customer
-                  weight - weight of the parcel in kg
-                  address - address of the recipient
-                  bill - amount to be paid
-                  type - 'D'-Domestic, 'I'-International
+member variables: 
+- name - name of the customer
+- weight - weight of the parcel in kg
+- address - address of the recipient
+- bill - amount to be paid
+- type - 'D'-Domestic, 'I'-International       
+
 Member methods:       
 void accept() - to accept the details using the methods of the Scanner class only.       
 void calculate() - to calculate the bill as per the following criteria:       
@@ -230,8 +232,9 @@ void calculate() - to calculate the bill as per the following criteria:
 | First 5 kgs | Rs 800 |
 | Next 5 kgs | Rs 700 |
 | Above 10 kgs | Rs 500 |
+
 An additional amount of Rs 1500 is charged if the type of the courier is I (International)       
-void print() - To print the details
+void print() - To print the details       
 void main () - to create an object of the class and invoke the methods.       
 [Explanation](https://youtu.be/ew5EvfzZrPw?si=GXditcNDHAcwokh0)
 
