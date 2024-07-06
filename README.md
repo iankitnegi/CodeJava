@@ -211,9 +211,50 @@ Sum = 1x1 + 2x4 + 3x0 + 4x1 + 5x6 + 6x0 + 7x1 + 8x4 + 9x9 + 10x9 = 253 which is 
 Write a program to:       
 - Input the ISBN code as a 10-digit integer.
 - If the ISBN is not a 10-digit integer, output the message "Illegal ISBN" & terminate the program.
-- If the number is divisible by 11, output the message "Legal ISBN". If the sum is not divisible by 11, output the message "Illegal ISBN"
+- If the number is divisible by 11, output the message "Legal ISBN". If the sum is not divisible by 11, output the message "Illegal ISBN"       
 [Explanation](https://youtu.be/PwG0HYljNrw?si=1A2r-9bvEvyivJhv) 
 
 ________________________________________________________________________________________________________________________
+YT43: DTDC a courier company charges for the courier based on the weight of the parcel. Define a class with the following specifications:       
+class name: courier       
+member variables: name - name of the customer
+                  weight - weight of the parcel in kg
+                  address - address of the recipient
+                  bill - amount to be paid
+                  type - 'D'-Domestic, 'I'-International
+Member methods:       
+void accept() - to accept the details using the methods of the Scanner class only.       
+void calculate() - to calculate the bill as per the following criteria:       
+| Weight in Kgs | Rate per Kg |
+|---------------|-------------|
+| First 5 kgs | Rs 800 |
+| Next 5 kgs | Rs 700 |
+| Above 10 kgs | Rs 500 |
+An additional amount of Rs 1500 is charged if the type of the courier is I (International)       
+void print() - To print the details
+void main () - to create an object of the class and invoke the methods.       
+[Explanation](https://youtu.be/ew5EvfzZrPw?si=GXditcNDHAcwokh0)
+
+
+
+
+
+
+
 YT51: Write a program to check whether the number is automorphic number or not? An Automorphic number is a number whose square “ends” in the same digits as the number itself.        
 Examples: 5*5 = 25, 6*6 = 36, 25*25 = 625       
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
