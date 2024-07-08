@@ -238,6 +238,29 @@ void print() - To print the details
 void main () - to create an object of the class and invoke the methods.       
 [Explanation](https://youtu.be/ew5EvfzZrPw?si=GXditcNDHAcwokh0)
 
+________________________________________________________________________________________________________________________
+YT44: Define a class to overload the method perform as follows:       
+double perform (double r, double h) - to calculate and return the value of curved surface area of cone       
+CSA = piexrxl, l^2 = r^2 + h^2       
+void perform (int r, int c) - Use NESTED FOR LOOP to generate the following format       
+t=4, c=5        
+output -        
+                  1 2 3 4 5       
+                  1 2 3 4 5       
+                  1 2 3 4 5       
+                  1 2 3 4 5       
+void perform (int m, int n, char ch) - to print the quotient of the division of m and n if ch is Q else print the remainder of division of m and n if ch is R       
+[Explanation](https://youtu.be/BdmOXLtwJI0?si=nVlEPUKn5A_0ji0f)
+
+________________________________________________________________________________________________________________________
+YT45: Define a class to accept a number from a user and check if it is an EvenPal number or not. (The number is said to be EvenPal number when number is pallindrome number & sum of its digits is an even number)       
+Palindrome: A number is palindrome if it is equal to its reverse       
+Example -       
+121 - is a palindrome number       
+Sum of the digits - 1+2+1 = 4 which is an even number       
+[Explanation](https://youtu.be/73SSeVkQPLM?si=T5CE-oc54bKokx8A)
+
+________________________________________________________________________________________________________________________
 
 
 
