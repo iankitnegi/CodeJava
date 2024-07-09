@@ -261,6 +261,25 @@ Sum of the digits - 1+2+1 = 4 which is an even number
 [Explanation](https://youtu.be/73SSeVkQPLM?si=T5CE-oc54bKokx8A)
 
 ________________________________________________________________________________________________________________________
+YT46: Define a class to accept values into an integer array of order 4x4 & check whether it is a DIAGONAL array or not. An array is DIAGONAL if the sum of the left diagonal elements equals the sum of the right diagonal elements. Print the appropriate message.       
+Example:       
+| 3 | 4 | 2 | 5 |
+|---|---|---|---|
+| 2 | 5 | 2 | 3 |
+| 5 | 3 | 2 | 7 |
+| 1 | 3 | 7 | 1 |       
+
+Sum of the left diagonal elements = 3+5+2+1 = 11       
+Sum of the right diagonal elements = 5+2+3+1 = 11       
+[Explanation](https://youtu.be/YQmAA4St-_4?si=4jhJlmcl7a-eUSLC)       
+
+________________________________________________________________________________________________________________________
+YT47: Define a class pin code and store the given pin codes in a single dimensional array. Sort these pin codes in ascending order using the Selection Sort technique only. Display the sorted array.       
+110061, 110001, 110029, 110023, 110055, 110006, 110019, 110033       
+[Explanation](https://youtu.be/K2bLMiHzqwk?si=Zv9S-VrDQDqReaDU)       
+
+________________________________________________________________________________________________________________________
+
 
 
 
@@ -269,18 +288,3 @@ ________________________________________________________________________________
 
 YT51: Write a program to check whether the number is automorphic number or not? An Automorphic number is a number whose square “ends” in the same digits as the number itself.        
 Examples: 5*5 = 25, 6*6 = 36, 25*25 = 625       
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
