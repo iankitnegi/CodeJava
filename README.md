@@ -279,9 +279,16 @@ YT47: Define a class pin code and store the given pin codes in a single dimensio
 [Explanation](https://youtu.be/K2bLMiHzqwk?si=Zv9S-VrDQDqReaDU)       
 
 ________________________________________________________________________________________________________________________
+YT48: Define a class to accept the gmail id and check for its validity.       
+A gmail id is valid only if it has:       
+-> @       
+-> . (dot)       
+-> gmail       
+-> com       
+Example: icse2024@gmail.com is a valid gmail id.       
+[Explanation](https://youtu.be/xiOA3qjyn48?si=qyFSDI7u6re0ksj8)       
 
-
-
+________________________________________________________________________________________________________________________
 
 
 
