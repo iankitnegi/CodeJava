@@ -215,6 +215,15 @@ Write a program to:
 [Explanation](https://youtu.be/PwG0HYljNrw?si=1A2r-9bvEvyivJhv) 
 
 ________________________________________________________________________________________________________________________
+YT42: Write a program to input a String and replace it's characters as given below:       
+B/b->A/a,    C/c->B/b,   ..........       
+Z/z->Y/y,    A/a->Z/z,   ..........       
+Rest of the string should not change       
+INPUT: Computer Applications       
+OUTPUT: Bnlotsdq Zookhbzshnmr       
+[Explanation](https://youtu.be/CJAYZ3H1UJQ?si=z4Z4OERTdizfLPOa)
+
+________________________________________________________________________________________________________________________
 YT43: DTDC a courier company charges for the courier based on the weight of the parcel. Define a class with the following specifications:       
 class name: courier       
 member variables: 
