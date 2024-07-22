@@ -312,9 +312,14 @@ Example: icse2024@gmail.com is a valid gmail id.
 [Explanation](https://youtu.be/xiOA3qjyn48?si=qyFSDI7u6re0ksj8)       
 
 ________________________________________________________________________________________________________________________
+YT50: If the number 1-26 represents the letter of alphabets in a sequence. Write a program that convert each letter of string into its number code.       
+Example:     Input=AMIT       
+A-1       
+M-13       
+I-9       
+T-20       
+[Explanation](https://youtu.be/MM_DnE-j_WU)
 
-
-
-
+________________________________________________________________________________________________________________________
 YT51: Write a program to check whether the number is automorphic number or not? An Automorphic number is a number whose square “ends” in the same digits as the number itself.        
 Examples: 5*5 = 25, 6*6 = 36, 25*25 = 625       
