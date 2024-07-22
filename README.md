@@ -199,8 +199,22 @@ ________________________________________________________________________________
 YT24: Write a program to input a number and check whether it is a prime number or not. If it is not a prime number then display the next number that is prime.  
 Sample Input: 14  
 Sample Output: 17         
+[Explanation]()
 
 ________________________________________________________________________________________________________________________
+YT36: Print the pattern              
+-        H            HELLO           HELLO           O
+         HE           HELL            ELLO            LO
+         HEL          HEL             LLO             LLO
+         HELL         HE              LO              ELLO
+         HELLO        H               O               HELLO
+[Explanation](https://youtu.be/9ILNyoCV5gQ)       
+
+________________________________________________________________________________________________________________________
+
+
+
+
 YT41: The International Standard Book Number(ISBN) is a unique numeric book identifier which is printed on every book. The ISBN is based upon a 10-digit code.       
 The ISBN is legal if:       
 1 x digit1 + 2 x digit2 + 3 x digit3 + 4 x digit4 + 5 x digit5 + 6 x digit6 + 7 x digit7 + 8 x digit8 + 9 x digit9 + 10 x digit10 is divisible by 11       
