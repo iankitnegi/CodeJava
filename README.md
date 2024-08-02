@@ -222,6 +222,19 @@ Sample Output: 17
 [Explanation]()
 
 ________________________________________________________________________________________________________________________
+YT28:       
+Write a program in java to accept a string make a new word from the inputted string having vowels first and then consonant. The sequence of the letters should not be disturbed. Print the total number of vowels, consonant and the new string.              
+Input - PHOENIX       
+Output - OEIPHNX       
+Total no of vowel = 3       
+Total no of consonant = 4       
+[Explanation](https://youtu.be/MUjYOFeEX6I?si=7z6q68iq4eR_Pm_T)       
+
+________________________________________________________________________________________________________________________
+YT29:       
+Define a class to Overload the method polygon() as follows-       
+
+
 YT36:        
 Print the pattern              
 -        H            HELLO           HELLO           O
@@ -232,10 +245,6 @@ Print the pattern
 [Explanation](https://youtu.be/9ILNyoCV5gQ)       
 
 ________________________________________________________________________________________________________________________
-
-
-
-
 YT41:        
 The International Standard Book Number(ISBN) is a unique numeric book identifier which is printed on every book. The ISBN is based upon a 10-digit code.       
 The ISBN is legal if:       
