@@ -232,9 +232,24 @@ Total no of consonant = 4
 
 ________________________________________________________________________________________________________________________
 YT29:       
-Define a class to Overload the method polygon() as follows-       
+Define a class to Overload the method polygon() as follows-     
+void polygon(int n, char ch) - which one integer argument and one character argumnet that draws a filled square of side n using the character stored in ch. For eg -  input value of n=2, ch='O'       
+Output:
+-        OO
+         OO
+void polygon(int x, int y) - which two integer arguments that draws a filled rectangle of the length x and breadth y, using the symbol '@'. For eg - input value of x=2, y=5       
+Output:
+-       @@@@@
+        @@@@@
+void polygon() - with no arguments that draws a filled triangle as shown.       
+-       *
+        **
+        ***
+        ****
+        *****
+[Explanation](https://youtu.be/xetNCgH0eOw?si=EcZmNIBrkQl-qsFl)
 
-
+________________________________________________________________________________________________________________________
 YT36:        
 Print the pattern              
 -        H            HELLO           HELLO           O
