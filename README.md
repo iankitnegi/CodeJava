@@ -222,6 +222,16 @@ Sample Output: 17
 [Explanation]()
 
 ________________________________________________________________________________________________________________________
+YT27:       
+Write a program to input two words of same length. Create a new word by joining 1st character of first word then 1st character of second word, 2nd character of first word then 2nd character of second word and so on.       
+Example: Input       
+1st word - JAVA       
+2nd word - KIWI       
+Output -
+New word - JKAIVWAI       
+[Explanation](https://youtu.be/-Fl7a-G1FwA?si=SbALEVeSU_WXKsh3)
+________________________________________________________________________________________________________________________
+
 YT28:       
 Write a program in java to accept a string make a new word from the inputted string having vowels first and then consonant. The sequence of the letters should not be disturbed. Print the total number of vowels, consonant and the new string.              
 Input - PHOENIX       
@@ -258,6 +268,55 @@ Print the pattern
          HELL         HE              LO              ELLO
          HELLO        H               O               HELLO
 [Explanation](https://youtu.be/9ILNyoCV5gQ)       
+
+________________________________________________________________________________________________________________________
+YT37:       
+Define a class to overload the function print as follows:       
+void print() - to print the following format       
+-       1 1 1 1 1
+        2 2 2 2 2
+        3 3 3 3 3
+        4 4 4 4 4
+        5 5 5 5 5
+void print(int n) - to check whether the number is a lead number. A lead number is the one whose sum of even digits are equal to sum of odd digits.       
+Ex: 3669       
+Odd digit sum = 3+9 = 12       
+Even digit sum = 6+6 = 12       
+3669 is a lead number       
+[Explanation](https://youtu.be/5SCtlQg0lCI?si=vNV2KSzUzTlQadr4)       
+
+________________________________________________________________________________________________________________________
+YT38:       
+Define a class to accept values in interger array of size 10. Find sum of one digit number and sum of two digit numbers entered. Display them separtately.       
+Example:       
+Input: a[] = {2, 12, 4, 9, 18, 25, 3, 32, 20 ,1}       
+Output: Sum of one digit numbers: 2+4+9+3+1 = 19       
+Sum of two digit numbers: 12+18+25+32+20 = 107    
+[Explanation](https://youtu.be/W7Bg9PRNJzM?si=hdyEFgic-jDjROm2)       
+
+________________________________________________________________________________________________________________________
+YT40:       
+Define a class with the following specifications:       
+Class name: Student       
+Member variables:        
+name - name of the student       
+age - age of student       
+mks - marks obtained        
+stream - stream allocated       
+(Declare the variables using appropriate data types)       
+Member methods:       
+void accept() - Accept name, age and marks using methods of Scanner class.       
+void allocation() - Allocate the stream as per following criteria:       
+| mks | stream |
+| --- | ------ |
+| >=300 | Science & Computer |
+| >=200 and <300 | Commerce & Computer |
+| >=75 and 200 | Arts & Animation |
+| <75 | Try Again |       
+
+void print() - Display student name, age, mks and stream allocated.       
+Call all the above methods in main method using an object.       
+[Explanation](https://youtu.be/SCi5oLdPzBw?si=2cGxIJYMMSY70RKK)
 
 ________________________________________________________________________________________________________________________
 YT41:        
