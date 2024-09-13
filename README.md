@@ -243,9 +243,9 @@ void display() : To display the details in the given format.
 ________________________________________________________________________________________________________________________
 YT21:      
 Design a class to overload a function series() as follows -       
-- double series(int n) - with one integer argumnet and returns the sum of the series. Sum = 1/2! + 2/3! + 3/4! + ........... + n/n!
-- double series(int a, int n) - with two integer argumnet and returns the sum of the series. Sum = a^n + a^n-1 + a^n-2 ............. + a^1
-- void series() - display the following pattern using an integer 4796       
+a. double series(int n) - with one integer argumnet and returns the sum of the series. Sum = 1/2! + 2/3! + 3/4! + ........... + n/n!       
+b. double series(int a, int n) - with two integer argumnet and returns the sum of the series. Sum = a^n + a^n-1 + a^n-2 ............. + a^1       
+c. void series() - display the following pattern using an integer 4796       
   4796       
   479       
   47       
@@ -306,6 +306,27 @@ void polygon() - with no arguments that draws a filled triangle as shown.
         ***
         ****
         *****
+[Explanation](https://youtu.be/xetNCgH0eOw?si=EcZmNIBrkQl-qsFl)
+
+________________________________________________________________________________________________________________________
+YT30:       
+Define a class named Moviemagic with the following description:       
+Instance Variables:       
+String title - to store the title of the movie       
+int year - to store the year of release of a movie        
+float rating - to store the popularity rating of the movie. Min. rating = 0.0, Max. rating = 5.0       
+Member Methods:       
+a. Moviemagic() - Default constructor to initalize numeric data members to 0 and String data members to "".       
+b. void accept() - To input and store year, title and rating       
+c. void display() - To display the title of a movie and a message based on the rating as per the table below:       
+| Rating | Message to be displayed |
+| -------| ------------------------|
+| 0.0 - 2.0 | Flop |
+| 2.1 - 3.4 | Semi-hit |
+| 3.5 - 4.5 | Hit |
+| 4.6 - 5.0 | Super Hit |     
+
+Write a main method to create an object of the class and call the above member methods.       
 [Explanation](https://youtu.be/xetNCgH0eOw?si=EcZmNIBrkQl-qsFl)
 
 ________________________________________________________________________________________________________________________
