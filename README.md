@@ -241,6 +241,19 @@ void display() : To display the details in the given format.
 [Explanation](https://youtu.be/yFFQ1q2xeAk?si=D3Fo4VkZaW-zpDfW)
 
 ________________________________________________________________________________________________________________________
+YT21:      
+Design a class to overload a function series() as follows -       
+- double series(int n) - with one integer argumnet and returns the sum of the series. Sum = 1/2! + 2/3! + 3/4! + ........... + n/n!
+- double series(int a, int n) - with two integer argumnet and returns the sum of the series. Sum = a^n + a^n-1 + a^n-2 ............. + a^1
+- void series() - display the following pattern using an integer 4796       
+  4796       
+  479       
+  47       
+  4       
+Create method main() to call all the above methods.       
+[Explanation](https://youtu.be/sXCWIAMfc0g?si=r8muPhofMJCzaC6L)
+
+________________________________________________________________________________________________________________________
 YT24:        
 Write a program to input a number and check whether it is a prime number or not. If it is not a prime number then display the next number that is prime.  
 Sample Input: 14  
