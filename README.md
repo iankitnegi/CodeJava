@@ -215,6 +215,32 @@ S= -1^x / 1! + 2^x / 2! - 3^x / 3! + ................... +/-n^x / n!
 [Explanation](https://youtu.be/pwnUvCSHt2g?si=-lNarSy1w68ZimJy)
 
 ________________________________________________________________________________________________________________________
+YT20:       
+Define a class Rider with the following specifications -       
+Data Members/Instance Variables -        
+int bno - to store the bike number       
+int phno - to store the phone number of the rider
+String name - to store the name of the Rider.       
+int days - to store the number of days the bike is taken out on rent       
+int charge - to calculate and store the rental charges       
+Member Methods -       
+Rider (int b, int p, String n, int d) : Parametrized constructor to initialize bno, phno, name & number of days       
+void input() : To input and store the details of the customer       
+void compute() : To compute the rental charges as per the given criteria       
+| Days | Charges per day |
+|------| ----------------|
+| For first five days | $500 per day |
+| For next five days | $400 per day |
+| More than ten days | $200 per day |    
+
+void display() : To display the details in the given format.       
+| Bike Number | Phone Number | Name | No. of Days | Charges |
+| ----------- | -------------| -----| ------------| --------|
+| CA09-L1234  | +91-xxxxxxxx | ABC  |  7          | 568     |       
+
+[Explanation](https://youtu.be/yFFQ1q2xeAk?si=D3Fo4VkZaW-zpDfW)
+
+________________________________________________________________________________________________________________________
 YT24:        
 Write a program to input a number and check whether it is a prime number or not. If it is not a prime number then display the next number that is prime.  
 Sample Input: 14  
