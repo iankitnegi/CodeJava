@@ -261,6 +261,16 @@ Sample Output: 17
 [Explanation]()
 
 ________________________________________________________________________________________________________________________
+YT25:       
+Write a program to input a string and check if it is unique or not?        
+A string is said to be unique if none of the letters present in the string are repeated. The program displays the message accordingly.          
+Sample Input: COMPUTER       
+Sample Output: Unique String       
+Sample Input: INFORMATION       
+Sample Output: No Unique       
+[Explanation](https://youtu.be/UIEr0ZZlFfk?si=xJOgdOFA-_0MdvJa)
+
+________________________________________________________________________________________________________________________
 YT27:       
 Write a program to input two words of same length. Create a new word by joining 1st character of first word then 1st character of second word, 2nd character of first word then 2nd character of second word and so on.       
 Example: Input       
