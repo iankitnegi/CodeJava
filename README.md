@@ -377,6 +377,15 @@ Sum of two digit numbers: 12+18+25+32+20 = 107
 [Explanation](https://youtu.be/W7Bg9PRNJzM?si=hdyEFgic-jDjROm2)       
 
 ________________________________________________________________________________________________________________________
+YT39:       
+Define a class to accept a string and print the number of digits, alphabets and special characters in the string.       
+Example: S= "KAPILDEV@83"       
+Output: Number of digits - 2       
+Number of alphabets - 8       
+Number of special characters - 1       
+[Explanation](https://youtu.be/_p4Y-L5FtVU?si=RMFFLMkheGHDtKre)         
+
+________________________________________________________________________________________________________________________
 YT40:       
 Define a class with the following specifications:       
 Class name: Student       
