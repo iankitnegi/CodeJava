@@ -254,6 +254,18 @@ Create method main() to call all the above methods.
 [Explanation](https://youtu.be/sXCWIAMfc0g?si=r8muPhofMJCzaC6L)
 
 ________________________________________________________________________________________________________________________
+YT22:       
+Write a program in Java to accept a string. First display its capital letter followed by small letters, digits and then other characters.       
+Ex: Input: ChiefTwit@Twitter:ElonMusk2022       
+Output: CTTEMhiefwitterlonusk2022@       
+[Explanation](https://youtu.be/YfettyNz550?si=LFS42et2ZHZwqO8Z)       
+
+________________________________________________________________________________________________________________________
+YT23:       
+Write a program to display all the perfect integers b/w 1-1000. A perfect integer is a number which is equal to the sum of all its factors excluding itself. For Example, 28 is a perfect integer as it is the sum of all its factors - 1+2+4+7+14       
+[Explanation](https://youtu.be/Vr01nrCB_J0?si=tV6OGleDEPfN_3fa)
+
+________________________________________________________________________________________________________________________
 YT24:        
 Write a program to input a number and check whether it is a prime number or not. If it is not a prime number then display the next number that is prime.  
 Sample Input: 14  
