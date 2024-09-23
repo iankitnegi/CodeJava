@@ -283,6 +283,27 @@ Sample Output: No Unique
 [Explanation](https://youtu.be/UIEr0ZZlFfk?si=xJOgdOFA-_0MdvJa)
 
 ________________________________________________________________________________________________________________________
+YT26:       
+Define a class named BookFair with the following description:       
+Data Members-       
+String Bname: Stores the name of the book       
+double price: Stores the price of the book       
+
+Member methods-       
+BookFair(): Default constructor to initialize the data members.       
+void input(): To input name and the price of the book.       
+void calculate(): Calculate the price after discount. Discount is calculated based on the given criteria.       
+| Price | Discount |
+|-------|----------|
+| <=1000 | 2% of price |
+| >1000 and <=3000 | 10% of price |
+| Above 3000 | 15% of price |       
+
+void display(): To display the name and price of the book after discount.       
+void main(): To create an object of the class and invoke the methods.       
+[Explanation](https://youtu.be/GGE7WduFGWs?si=ul4ZELWdETD-IZe9)
+
+________________________________________________________________________________________________________________________
 YT27:       
 Write a program to input two words of same length. Create a new word by joining 1st character of first word then 1st character of second word, 2nd character of first word then 2nd character of second word and so on.       
 Example: Input       
@@ -342,13 +363,53 @@ Write a main method to create an object of the class and call the above member m
 [Explanation](https://youtu.be/xetNCgH0eOw?si=EcZmNIBrkQl-qsFl)
 
 ________________________________________________________________________________________________________________________
+YT31:       
+Define a class to overload the method Display as follows:       
+1. void Display() - To display the following pattern using nested loop
+-        9 7 5 3 1
+         7 5 3 1
+         5 3 1
+         3 1
+         1
+2. void Display(int num) - To display the minimum digit from a number. For Example - num = 4835, Output - Minimum digit = 3       
+3. void Display(int p, int q) - To display p to the power q without using Math.pow() function.
+Create method main() to call all the above methods.              
+[Explanation](https://youtu.be/eI0HvOd2XPU?si=m4C3xSQXsyrLgU6i)
+
+________________________________________________________________________________________________________________________
 YT32:       
 Write a program in java to input any word & print the same in ASCII alphabetical order.       
 Example: EXaM, Output: EMXa       
 [Explanation](https://youtu.be/yR5lFb_5tns?si=epFdgGZ2HSC9kPjk)
 
 ________________________________________________________________________________________________________________________
+YT34:       
+Define a class Student with the following specifications -        
+Data Members-       
+name: To store the name of the student       
+rno: To store the roll number of the student       
+per: To store the percentage of a student       
+sch: To store the scholarship earned by a student       
+stipend: To store the stipend earned by a student.       
+tSch: To store the total scholarship (stipend+sch)       
 
+Member Methods-       
+Student(): Default Constructor to initialize the data members.       
+void enter(): To input name, roll number, percent of a student       
+void compute(): To calculate stipend & scholarship earned as follows and calculate the total scholarship -        
+| Percentage(per) | Stipend | Scholarship(sch) |
+|-----------------|---------|------------------|
+| Percentage more than 90 | 5000 | 10% of stipend |
+| More than or equal 70 and less than 90 | 4000 | 8% of stipend |       
+| More than or equal to 60 and less than 70 | 3500 | 5% of stipend |
+| Less than 60 | 2500 | - |
+
+Also, calculate the total scholarship earned by the student by adding stipend and scholarship.       
+void print(): Display name, roll number and total scholarship earned by a student       
+Create method main() to call all the above methods.       
+[Explanation](https://youtu.be/Iu5mOo75tqk?si=QxNOxG7SWiYcFLsE)
+
+________________________________________________________________________________________________________________________
 YT35:       
 Write a program in Java to accept a string in lower case and change the first letter of every word to upper case. Display the new string.       
 Sample input: we are in cyber world.       
