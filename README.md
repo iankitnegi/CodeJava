@@ -342,6 +342,20 @@ Write a main method to create an object of the class and call the above member m
 [Explanation](https://youtu.be/xetNCgH0eOw?si=EcZmNIBrkQl-qsFl)
 
 ________________________________________________________________________________________________________________________
+YT32:       
+Write a program in java to input any word & print the same in ASCII alphabetical order.       
+Example: EXaM, Output: EMXa       
+[Explanation](https://youtu.be/yR5lFb_5tns?si=epFdgGZ2HSC9kPjk)
+
+________________________________________________________________________________________________________________________
+
+YT35:       
+Write a program in Java to accept a string in lower case and change the first letter of every word to upper case. Display the new string.       
+Sample input: we are in cyber world.       
+Sample output: We Are In Cyber World.       
+[Explanation](https://youtu.be/jprEOsuOSP4?si=j66FfFFBnrKsfWk3)
+
+________________________________________________________________________________________________________________________
 YT36:        
 Print the pattern              
 -        H            HELLO           HELLO           O
