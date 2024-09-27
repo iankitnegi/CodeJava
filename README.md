@@ -267,10 +267,17 @@ Write a program to display all the perfect integers b/w 1-1000. A perfect intege
 
 ________________________________________________________________________________________________________________________
 YT24:        
-Write a program to input a number and check whether it is a prime number or not. If it is not a prime number then display the next number that is prime.  
-Sample Input: 14  
-Sample Output: 17         
-[Explanation]()
+Design a class to accept some intergers in a matrix (2D) of size 3x3. Now, compute an print the sum of the leading diagonal elements as well as the counter diagonal elements separately.       
+Example:       
+If Array =        
+| 2 | 5 | 4 |
+|---|---|---|
+| 0 | 3 | 8 |
+| 4 | 5 | 7 |       
+
+Then, sum of the left digonal elements = 2+3+7=12       
+And, the sum of the right diagonal elements = 4+3+4=11       
+[Explanation]()       
 
 ________________________________________________________________________________________________________________________
 YT25:       
@@ -603,3 +610,11 @@ ________________________________________________________________________________
 YT51:       
 Write a program to check whether the number is automorphic number or not? An Automorphic number is a number whose square “ends” in the same digits as the number itself.        
 Examples: 5*5 = 25, 6*6 = 36, 25*25 = 625       
+[Explanation]()
+
+________________________________________________________________________________________________________________________
+YT58:       
+Write a program to input a number and check whether it is a prime number or not. If it is not a prime number then display the next number that is prime.  
+Sample Input: 14  
+Sample Output: 17         
+[Explanation]()
