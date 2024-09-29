@@ -617,4 +617,4 @@ YT58:
 Write a program to input a number and check whether it is a prime number or not. If it is not a prime number then display the next number that is prime.  
 Sample Input: 14  
 Sample Output: 17         
-[Explanation]()
+[Explanation](https://youtu.be/dqyhB-ZNNZk?si=JPt3_xRLYnKV5zmI)
