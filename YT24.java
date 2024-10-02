@@ -1,62 +1,45 @@
-import java.io.*;
-class YT24
+/*                  *
+ *               *  *
+ *            *  *  *
+ *         *  *  *  *
+ *      *  *  *  *  *
+ *         *  *  *  *
+ *            *  *  *
+ *               *  *
+ *                  *
+ */
+
+
+class YT24 
 {
-    public static void main(String[] args)throws IOException 
+    public static void main(String[] args) 
     {
-        int a[][] = new int[3][3];
-        int lsum=0;
-        int rsum=0;
-
-        InputStreamReader I = new InputStreamReader(System.in);
-        BufferedReader br = new BufferedReader(I);
-        
-        
-        System.out.println("Enter the array 3x3: ");
-        for(int i=0; i<3; i++)
+        for(int i=1; i<=5; i++)
         {
-            for(int j=0; j<3; j++)
+            for(int j=(5-i); j>=1; j--)
             {
-                a[i][j]=Integer.parseInt(br.readLine());
+                System.out.print(" ");
             }
-        }
-
-        System.out.println("Original Array");
-        for(int i=0; i<3; i++)
-        {
-            for(int j=0; j<3; j++)
+            for(int k=1; k<=i; k++)
             {
-                System.out.print(a[i][j]+" ");
+                System.out.print("*");
             }
             System.out.println();
         }
 
-
-        for(int i=0; i<3; i++)
+        //2nd half
+        for(int i=5; i>=1; i--)
         {
-            for(int j=0; j<3; j++)
+            for(int j=i; j<=5; j++)
             {
-                if(i==j)
-                {
-                    lsum=lsum+a[i][j];
-                }
+                System.out.print(" ");
             }
-        }
-
-        for(int i=0; i<3; i++)
-        {
-            for(int j=0; j<3; j++)
+            for(int k=1; k<i; k++)
             {
-                if((i+j)==2)
-                {
-                    rsum=rsum+a[i][j];
-                }
+                System.out.print("*");
             }
+            System.out.println();
         }
-
-        System.out.println("Left Diag: " + lsum);
-        System.out.println("Right Diag: " + rsum);
-
-
-
+        
     }
 }
