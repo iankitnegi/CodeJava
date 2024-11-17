@@ -618,6 +618,12 @@ Write a program to print & fill the 4x4 two-dimentional array? #ConceptVideo
 [Explanation]()
 
 ________________________________________________________________________________________________________________________
+YT53:       
+Special Number: If the sum of the factorial of digits of a number (N) is equal to the number itself, the number (N) is called a special number.       
+145 = 1!+4!+5! = 145, it is a special number       
+[Explanation]()
+
+________________________________________________________________________________________________________________________
 YT58:       
 Write a program to input a number and check whether it is a prime number or not. If it is not a prime number then display the next number that is prime.  
 Sample Input: 14  
