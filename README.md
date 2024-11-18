@@ -621,7 +621,7 @@ ________________________________________________________________________________
 YT53:       
 Special Number: If the sum of the factorial of digits of a number (N) is equal to the number itself, the number (N) is called a special number.       
 145 = 1!+4!+5! = 145, it is a special number       
-[Explanation]()
+[Explanation](https://youtu.be/UWYYhQK2_4o)
 
 ________________________________________________________________________________________________________________________
 YT58:       
