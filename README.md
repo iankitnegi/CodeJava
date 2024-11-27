@@ -624,6 +624,12 @@ Special Number: If the sum of the factorial of digits of a number (N) is equal t
 [Explanation](https://youtu.be/UWYYhQK2_4o)
 
 ________________________________________________________________________________________________________________________
+YT55:       
+Pronic Number: Write a program to input a number and check and print whether it is a Pronic number or not. Pronic number is the number which is the product of two consecutive integers. Examples:       
+12 = 3 * 4, 20 = 4 * 5, 42 = 6 * 7     
+[Explanation](https://youtu.be/obU1fzjt63k?si=8e5dj4y6MuNCKTOp)
+
+________________________________________________________________________________________________________________________
 YT58:       
 Write a program to input a number and check whether it is a prime number or not. If it is not a prime number then display the next number that is prime.  
 Sample Input: 14  
